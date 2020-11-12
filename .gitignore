@@ -126,3 +126,4 @@ dmypy.json
 
 # r auth
 r_auth.py
+a_auth.py
