@@ -125,5 +125,4 @@ dmypy.json
 
 
 # r auth
-r_auth.py
-a_auth.py
+reddit_scraper/r_auth.py

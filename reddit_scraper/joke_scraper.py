@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-
-
 # ## Scraper for r/jokes subreddit that will be used to train NLP model
 
 from collections import defaultdict
